@@ -20,14 +20,3 @@ The dataset used in this project is sourced from [Dataset Name](https://example.
 - Python 3.6+
 - Required libraries listed in `requirements.txt`
 
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/yourproject.git
-   cd yourproject
-pip install -r requirements.txt
-python code/data_preprocessing.py
-python code/model_training.py
-python code/evaluation.py
